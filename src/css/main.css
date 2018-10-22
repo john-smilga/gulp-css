@@ -1,0 +1,17 @@
+:root {
+ --main-bg-color: coral; 
+}
+
+#div1 {
+ background-color: var(--main-bg-color); 
+}
+
+#div2 {
+ background-color: var(--main-bg-color);
+}
+
+div{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
